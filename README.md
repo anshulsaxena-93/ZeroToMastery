@@ -1,1 +1,1 @@
-# ZeroToMastery
+[![Run on Repl.it](https://repl.it/badge/github/anshulsaxena-93/ZeroToMastery)](https://repl.it/github/anshulsaxena-93/ZeroToMastery)
